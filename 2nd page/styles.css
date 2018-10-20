@@ -1,0 +1,69 @@
+body
+{
+  font-family: sans-serif;
+  background: url('background.png');
+position:relative;
+left:250px;
+overflow: hidden;
+}
+p
+{
+	font-weight: 30px;
+	font-size: 20px;
+}
+#go{
+	text-align:center;
+background:#ea8a46;
+margin:15px;
+padding:15px;
+position: relative;
+top: -15px;
+}
+img
+{
+height:180px;
+width: 180px;
+}
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+li
+{
+float:left;
+margin:0px 40px 0px 40px;
+}
+button
+{
+text-align:center;
+background:#ea8a46;
+margin:20px;
+padding:15px;
+}
+#rpp{
+padding:15px 170px 15px 200px;
+}
+.rest{
+margin:0px 40px 0px 40px;
+}
+.items
+{
+	margin:0px 40px 0px 30px;
+	padding: 5px 20px 5px 20px;
+}
+.text1
+{
+
+	font-size: 25px;
+    display: inline-block;
+}
+form
+{
+	margin-left: 50px;
+}
+.addon{
+	margin-left: 50px;
+
+}
